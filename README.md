@@ -34,15 +34,19 @@ time the total need for which cannot be predicted.
 |                      |                  | **CoRECONF**                                                                   |                                       |
 |                      |                  | *Model management and  extraction*                                             |                                       |
 |                14:10 | Laurent Toutain  | SID Extension to efficiently manipulate YANG Data Models                       | [slides][slides-sidex] [draft][sidex] |
-| 14:35 (before 1500Z) | Alexander Pelov  | SID Registries                                                                 |                                       |
+| 14:35 (before 1500Z) | Alexander Pelov  | SID Registries                                                                 | [slides][slides-reg]                  |
 |                      |                  | *Implementation and use of CoRECONF*                                           |                                       |
 |                14:40 | Rafa Marín-López | A YANG data model for SDN-based key management with EDHOC and OSCORE           | [slides][slides-sdn]                  |
-|                15:10 | Manoj GUDI       | C implementation of Coreconf for embedded devices and integration with RIOT OS |                                       |
+|                15:10 | Manoj GUDI       | C implementation of Coreconf for embedded devices and integration with RIOT OS | [slides][slides-ccoreconf] [impl][impl-ccoreconf] [thesis][thesis-ccoreconf] |
 |                      |                  | **Impulse talk: a future where models are pervasive**                          |                                       |
 |                15:35 | Carsten Bormann  | Towards a device-infrastructure continuum in IoT and OT networks               |                                       |
 |                15:50 | (chairs)         | **Wrapup**                                                                     |                                       |
 
 [slides-sidex]: https://datatracker.ietf.org/meeting/interim-2024-t2trg-02/materials/slides-interim-2024-t2trg-02-sessa-sid-extension-01
 [sidex]: https://datatracker.ietf.org/doc/draft-toutain-t2t-sid-extension/
+[slides-reg]: https://datatracker.ietf.org/meeting/interim-2024-t2trg-02/materials/slides-interim-2024-t2trg-02-sessa-sid-registries-00
 [slides-sdn]: https://datatracker.ietf.org/meeting/interim-2024-t2trg-02/materials/slides-interim-2024-t2trg-02-sessa-a-yang-data-model-for-sdn-based-key-management-with-edhoc-and-oscore-00
+[slides-ccoreconf]: https://datatracker.ietf.org/meeting/interim-2024-t2trg-02/materials/slides-interim-2024-t2trg-02-sessa-ccoreconf-for-embedded-devices-riot-00
+[impl-ccoreconf]: https://github.com/manojgudi/ccoreconf/
+[thesis-ccoreconf]: https://drive.google.com/file/d/1rCWjvA-BDDnr4E6MNmh4FDIlq1AtWx9s/view
 [chairs]: mailto:t2trg-chairs@irtf.org
