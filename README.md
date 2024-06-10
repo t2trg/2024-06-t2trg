@@ -42,7 +42,7 @@ time the total need for which cannot be predicted.
 |                15:35 | Carsten Bormann  | Towards a device-infrastructure continuum in IoT and OT networks               |                                       |
 |                15:50 | (chairs)         | **Wrapup**                                                                     |                                       |
 
-[slides-sidex]: https://datatracker.ietf.org/meeting/interim-2024-t2trg-02/materials/slides-interim-2024-t2trg-02-sessa-sid-extension-00
+[slides-sidex]: https://datatracker.ietf.org/meeting/interim-2024-t2trg-02/materials/slides-interim-2024-t2trg-02-sessa-sid-extension-01
 [sidex]: https://datatracker.ietf.org/doc/draft-toutain-t2t-sid-extension/
 [slides-sdn]: https://datatracker.ietf.org/meeting/interim-2024-t2trg-02/materials/slides-interim-2024-t2trg-02-sessa-a-yang-data-model-for-sdn-based-key-management-with-edhoc-and-oscore-00
 [chairs]: mailto:t2trg-chairs@irtf.org
