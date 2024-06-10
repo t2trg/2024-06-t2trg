@@ -19,7 +19,7 @@ required to access the web conferencing system "meetecho".
 
 ## Materials
 
-TBD
+<https://datatracker.ietf.org/meeting/interim-2024-t2trg-02/session/t2trg>
 
 ## Draft Agenda
 
